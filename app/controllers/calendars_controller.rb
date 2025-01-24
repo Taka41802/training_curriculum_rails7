@@ -48,3 +48,4 @@ class CalendarsController < ApplicationController
 
   end
 end
+@todays_date.wday + x
